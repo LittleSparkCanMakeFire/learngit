@@ -2,3 +2,4 @@
 2.study excel
 3.study MySQL
 4.read book..
+5.should i study excel first ?
